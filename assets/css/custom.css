@@ -342,7 +342,7 @@ body{
 }
 .container h2{
     text-align: center;
-    padding-top: 90px;
+    padding-top: 40px;
     font-size: 32px;
     letter-spacing: -1px;
     font-weight: bold;
@@ -414,7 +414,7 @@ body{
     background: rgba(0, 0, 0, 0) url("../images/portfolio_bg.jpg") no-repeat scroll 0 0;
     background-size:cover;
     position:relative;
-    padding-bottom: 102px;
+    padding-bottom: 20px;
     border-bottom:2px solid #ffcb0f;
 }
 #portfolio::before{
@@ -429,7 +429,7 @@ body{
 .portfolio_area{ position:relative;color:#fff;}
 .portfolio_area h2 {
     color: #fff;
-    margin: 65px 0 34px;
+    margin: 10px 0 34px;
 }
 /* Portfolio filters */
 #filters {
@@ -601,10 +601,10 @@ body{
   /* ======================================================================= */
 #contact_form {
     background: #fedb5d none repeat scroll 0 0;
-    padding:27px 0 32px;
+    padding:10px 0 32px;
 }
 #contact_form h2 {
-    margin: 20px 0 0;
+    margin: 10px 0 0;
     color:#73757e;
 }
 #contact_form .second_heading {
