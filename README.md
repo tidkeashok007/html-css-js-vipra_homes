@@ -1,14 +1,31 @@
-### View on the website [Link](https://tidkeashok007.github.io/html-css-js-vipra_homes/)
+## Screenshot
+
+![Increment Project](vipra.png)
+
+## Live Demo
+
+Check out the live demo [here](https://tidkeashok007.github.io/html-css-js-vipra_homes/).
+
+# My Project
+
+Welcome to My Project! This repository contains the source code for a simple increment project created using HTML, CSS, and JavaScript.
+
+## Overview
+
+This project demonstrates a basic increment functionality using HTML, CSS, and JavaScript. It's a great starting point for beginners learning web development.
+
+## Features
+
+- Simple and intuitive user interface
+- Increment functionality implemented in JavaScript
+- Responsive design with CSS
+
+## Usage
+
+To view the project, simply open the `index.html` file in a web browser.
 
 
+## License
 
-# Vipra Home
-This Notebook deals with prediction of instagram Reaches.
-
-  
-## Objectives
-* Enhance Posting Strategy.
-* Refine Content Types.
-* Understand Audience Demographics.
-
+This project is licensed under the [MIT License](LICENSE).
 
