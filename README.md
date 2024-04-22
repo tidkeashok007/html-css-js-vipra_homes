@@ -1,31 +1,29 @@
 ## Screenshot
 
-![Increment Project](vipra.png)
+![VIPRA Homes](vipra.png)
 
 ## Live Demo
 
 Check out the live demo [here](https://tidkeashok007.github.io/html-css-js-vipra_homes/).
 
-# My Project
+# VIPRA Homes Project
 
-Welcome to My Project! This repository contains the source code for a simple increment project created using HTML, CSS, and JavaScript.
+Welcome to the VIPRA Homes Project! This repository contains the source code for the VIPRA Homes website, showcasing a collection of HTML, CSS, and JavaScript files.
 
 ## Overview
 
-This project demonstrates a basic increment functionality using HTML, CSS, and JavaScript. It's a great starting point for beginners learning web development.
+The VIPRA Homes Project presents a modern and user-friendly website for browsing properties. With HTML, CSS, and JavaScript, it offers a seamless experience for users interested in real estate.
 
 ## Features
 
-- Simple and intuitive user interface
-- Increment functionality implemented in JavaScript
-- Responsive design with CSS
+- Intuitive user interface for property browsing
+- Responsive design for optimal viewing across devices
+- Interactive elements powered by JavaScript
 
 ## Usage
 
-To view the project, simply open the `index.html` file in a web browser.
-
+To view the VIPRA Homes website, simply open the `index.html` file in a web browser.
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
