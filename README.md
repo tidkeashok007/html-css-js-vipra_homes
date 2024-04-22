@@ -1,5 +1,3 @@
-## Screenshot
-
 ![VIPRA Homes](vipra.png)
 
 ## Live Demo
